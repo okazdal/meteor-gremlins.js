@@ -1,8 +1,8 @@
 {
     "name": "meteor-gremlins.js",
     "description": "Unleash a bunch of monkeys on your app.",
-    "homepage": "",
-    "author": "",
+    "homepage": "https://github.com/okazdal/meteor-gremlins.js",
+    "author": "okazdal",
     "version": "0.1.0"
 }
 
