@@ -3,6 +3,7 @@
     "description": "Unleash a bunch of monkeys on your app.",
     "homepage": "https://github.com/okazdal/meteor-gremlins.js",
     "author": "okazdal",
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "git": "https://github.com/okazdal/meteor-gremlins.js"
 }
 
